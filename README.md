@@ -1,4 +1,4 @@
-# My MERN Stack Learning Journey Start 🚀
+# My MERN Stack Learning Journey Start
 
 ## Introduction
 Hey there! I’ve just started my journey into the world of web development with the MERN stack. Join me as I learn and grow with these amazing technologies:
